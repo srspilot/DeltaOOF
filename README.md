@@ -5,7 +5,7 @@ By Le Pilot on "Deltarune (Undertale 2)" Amino
 
 ---------Updates Galore-------
 
-CURRENT VERSION V1.01 
+CURRENT VERSION V1.02 
 (Go to https://github.com/srspilot/DeltaOOF to check for more updates)
 
 V1.00: 
