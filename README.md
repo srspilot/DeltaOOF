@@ -17,5 +17,6 @@ V1.01:
 V1.02:
 *General fixes
 *Replaced snowy with new ralsei sprite (untested)
+*Lancers bullet replaced with a actual bullet
 
 ------End of updates--------
